@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/MokoJs/timestamps/issues"
   },
-  "homepage": "https://github.com/MokoJs/timestamps"
+  "homepage": "https://github.com/MokoJs/timestamps",
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "co-mocha": "0.0.4",
+    "moko": "~0.1.1",
+    "expect.js": "~0.3.1"
+  }
 }
